@@ -1,4 +1,5 @@
-# 📚 RAG-based Urdu PDF Query System
+
+# 📚 Urdu Ai Assistant (RAG-based Urdu PDF Query System)
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge.svg)](YOUR_LIVE_DEMO_LINK_HERE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
@@ -50,5 +51,37 @@ This system follows a modular RAG architecture:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Urdu-AI-RAG.git](https://github.com/YOUR_USERNAME/Urdu-AI-RAG.git)
+   git clone [https://https://github.com/bushra387/Urdu-AI-Assistant.git](https://https://github.com/bushra387/Urdu-AI-Assistant.git)
    cd Urdu-AI-RAG
+
+```
+
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+
+```
+
+
+3. Run the application:
+```bash
+streamlit run app.py
+
+```
+
+
+
+---
+
+## 💡 Why This Matters
+
+Standard LLMs often struggle with low-resource languages like Urdu due to script complexity and lack of specialized training data. This project demonstrates how **AI Engineering** can bridge that gap by combining modern RAG techniques with specialized NLP preprocessing, making digital Urdu knowledge more accessible.
+
+---
+
+## 👤 Author
+
+Bushra Rehman Computer Science Student | AI Enthusiast | 3.92 CGPA* [LinkedIn](www.linkedin.com/in/bushra-rehman-475356260 | [Portfolio])
+
+
+```
