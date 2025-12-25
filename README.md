@@ -1,7 +1,7 @@
 
 # 📚 Urdu Ai Assistant (RAG-based Urdu PDF Query System)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge.svg)](https://z3k6ryklophk3zqtkmpcxf.streamlit.app/)
+[![Streamlit App](https://z3k6ryklophk3zqtkmpcxf.streamlit.app/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![OpenAI GPT-4o](https://img.shields.io/badge/Model-GPT--4o-orange.svg)](https://openai.com/)
 
